@@ -12,7 +12,7 @@ function weekd() {
   var choice = document.getElementById('select').value;
   
   if (choice === "male") {
-      console.log(femaleNames[Math.round(dayoftheweek)]);
+      console.log(maleNames[Math.round(dayoftheweek)]);
   
       document.getElementById('akan').innerHTML =maleNames[Math.round(dayoftheweek)];
   
