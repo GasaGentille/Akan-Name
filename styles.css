@@ -8,7 +8,12 @@ body{
   background-color: lightblack;
 }
 #result{
-  color:black;
+  color:green;
+  font-size: 30px;
+}
+#akan-name{
+  color:green;
+  font-size: 30px;
 }
 .bb{
   width:150px;
