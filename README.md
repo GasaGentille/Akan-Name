@@ -1,5 +1,5 @@
 # AKAN NAME web application
-#### This is a website AppThat helps you to guess the Day on which you born on
+#### This is a website AppThat helps you to guess the Day on which you born on and give you a Name depending your gender.
 #### By **KANKINDI RITHA VENERANDA**
 ## Description
 Most people do know when their birthdays are, but some might not know what day of the week they were born. Luckily for us, there are ways to calculate the day of the week from a specific date.
