@@ -1,5 +1,5 @@
-# AKAN NAME
-#### This is a website That helps you to guess the Day on which you born on
+# AKAN NAME web application
+#### This is a website AppThat helps you to guess the Day on which you born on
 #### By **KANKINDI RITHA VENERANDA**
 ## Description
 Most people do know when their birthdays are, but some might not know what day of the week they were born. Luckily for us, there are ways to calculate the day of the week from a specific date.
@@ -14,7 +14,7 @@ Most people do know when their birthdays are, but some might not know what day o
 
 
 ## Technologies Used
-this protifolio was created using HTML and stylesheet(css)
+AKAN NAME web application was created using HTML ,stylesheet(css) and javascript
 ## Support and contact details
 contact me for more info (+250) 787412101
 ### License
