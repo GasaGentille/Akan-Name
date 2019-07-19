@@ -1,11 +1,11 @@
-html{
+body{
   background-image: url("/home/wecode/Documents/hh.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
 }
 body{
-  background-color: lightblack;
+  background-color:lightsalmon;
 }
 #result{
   color:green;
