@@ -6,6 +6,9 @@ body{
  
  
 }
+.result{
+  color: white;
+}
 .bb{
   width:700px;
   height:100px;
