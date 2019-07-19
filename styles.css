@@ -1,0 +1,16 @@
+body{
+  background-image: url("/home/wecode/Documents/hh.jpg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+ margin-top: 90px;
+}
+.bb{
+  width: 200px;
+  height: 80px;
+  border-radius: 50%;
+  background-color:brown;
+  margin-left: 40px;
+  color: aliceblue;
+  padding: 10px;
+}
