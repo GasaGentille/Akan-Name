@@ -1,11 +1,12 @@
 function weekd() {
-  var d = parseFloat(document.getElementById("day").value);
-  var m = parseFloat(document.getElementById("month").value);
-  var y = parseFloat(document.getElementById("year").value);
-  var c = (y - 1) / 100 + 1;
-  var dayoftheweek = (c / 4 - 2 * c - 1 + 5 * y / 4 + 26 * (m + 1) / 10 + d) % 7;
+  var DD = parseFloat(document.getElementById("day").value);
+  var MM = parseFloat(document.getElementById("month").value);
+  var YY = parseFloat(document.getElementById("year").value);
+  var CC = (YY - 1) / 100 + 1;
+  var dayoftheweek = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD )%7;
+
   console.log(dayoftheweek);
-  document.getElementById('result').innerHTML = Math.round(dayoftheweek);
+  document.getElementById("result").innerHTML = Math.round(dayoftheweek);
   
   var femaleNames= ["kwasi", "kwadwo", "kwabena", "kwaku", "yaw", "kofi", "kwame"];
   var maleNames= ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
