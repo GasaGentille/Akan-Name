@@ -27,7 +27,8 @@ Most people do know when their birthdays are, but some might not know what day o
 * **According to** 
 * the input you've inserted
 * **The output will be** 
-* a day of week on which you were born **And** * the Akan Name much with your and gender
+* a day of week on which you were born **And** 
+* the Akan Name much with your and gender
 
 ## Technologies Used
 * AKAN NAME web application was created using HTML ,stylesheet(css) and javascript
