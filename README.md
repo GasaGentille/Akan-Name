@@ -6,7 +6,7 @@
 Most people do know when their birthdays are, but some might not know what day of the week they were born. Luckily for us,
  there are ways to calculate the day of the week from a specific date.this web application prompt a user to insert birth date,month,
  birth year and select the gender (female or male) then the system output the day of week and the Name corrresponding to your day.
- AKAN NAMES are names that can be give to a baby born according to the day of week
+ AKAN NAMES are names that can be give to a baby born according to the day of week.
 ## Setup/Installation Requirements
 * install code editor(ex.vs code) into your your machine
 * clone the project 
@@ -18,17 +18,17 @@ Most people do know when their birthdays are, but some might not know what day o
 ## BDD
 **Input birth date** 
 * birth date must be a number 
-**Then input month on which you were born on** 
+ * **Then input month on which you were born on** 
 * month also must be a number
-**input the year on which you were born** 
+* **input the year on which you were born** 
 * year must be greater than zero(0)
-**Choose your gender** 
-**then** click submit 
-**According to** 
+* **Choose your gender** 
+* **then** click submit 
+* **According to** 
 * the input you've inserted
-**The output will be** 
+* **The output will be** 
 * a day of week on which you were born **And** * the Akan Name much with your and gender
- 
+
 ## Technologies Used
 *AKAN NAME web application was created using HTML ,stylesheet(css) and javascript
 ## Support and contact details
