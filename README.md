@@ -30,7 +30,7 @@ Most people do know when their birthdays are, but some might not know what day o
 * a day of week on which you were born **And** * the Akan Name much with your and gender
 
 ## Technologies Used
-*AKAN NAME web application was created using HTML ,stylesheet(css) and javascript
+* AKAN NAME web application was created using HTML ,stylesheet(css) and javascript
 ## Support and contact details
 contact me for more info (+250) 787412101
 ### License
