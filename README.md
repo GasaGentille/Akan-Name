@@ -22,4 +22,4 @@ AKAN NAME web application was created using HTML ,stylesheet(css) and javascript
 ## Support and contact details
 contact me for more info (+250) 787412101
 ### License
-**this application is licensed MIT  copy right@ KANKINDI VENERANDA Ritha**
+**This application is licensed MIT  copy right (C)KANKINDI VENERANDA Ritha**
