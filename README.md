@@ -1,5 +1,5 @@
 # AKAN NAME web application
-#### This is a website App that helps you to guess the Day on which you born on and give you a Name depending your gender.
+#### This is a website App that helps you to guess the Day on which you were born on and give you a Name depending on your gender.
 #### By **KANKINDI RITHA VENERANDA**
 ## Description
 ### Akan names are the names used by the Akan peaple of Ghana and the coast,who are freqwently naming their baby boys and baby girls after the day of week in which they were born
