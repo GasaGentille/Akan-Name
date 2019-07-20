@@ -15,11 +15,17 @@ Most people do know when their birthdays are, but some might not know what day o
 * Enter my birthday through a form 
 * Choose what gender you am.
 * Click the submit button to see what my Akan name would be
-
-
+## BDD
+**Input birth date** birth date must be a number 
+**Then input month on which you were born on** month also must be a number
+**input the year on which you were born** year must be greater than zero(0)
+**Choose your gender** 
+**then** click submit 
+**According to** the input you've inserted
+**The output will be** a day of week on which you were born **And** the Name 
 ## Technologies Used
 AKAN NAME web application was created using HTML ,stylesheet(css) and javascript
 ## Support and contact details
 contact me for more info (+250) 787412101
 ### License
-**This application is licensed MIT  copy right (C)KANKINDI VENERANDA Ritha**
+**This application is licensed by MIT  copy right (C)KANKINDI VENERANDA Ritha**
