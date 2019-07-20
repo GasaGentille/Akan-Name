@@ -27,7 +27,7 @@ if ((gender=== "male" && (DD>0 && DD<=31)&&(MM>0 && MM<=12)&& YY>=1)){
 
 document.getElementById("akan-name").innerHTML= femaleNames[parseInt(weekDay)];
 } else{
-  /*if you'he intered the invalid input  */
+  /*if you'he intered the invalid input */
     console.log("invalid input");
     alert("sorry you'he entered the invalid month or date!")
     document.getElementById("akan-name").innerHTML="invalid input";
