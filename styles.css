@@ -46,10 +46,11 @@ img{
   height: 400px;
 }
 h2{
-  color:tomato;
+  color:red;
   padding: 30px;
+  text-align: center;
+  font-size: 30px;
 }
 .right{
   float: right;
-
 }
