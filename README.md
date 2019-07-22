@@ -11,7 +11,7 @@ Most people do know when their birthdays are, but some might not know what day o
 * Enter my birthday through a form 
 * Choose what gender you am.
 * Click the submit button to see what my Akan name would be
-
+## live site: https://rithaven.github.io/Akan-Name/
 
 ## Technologies Used
 AKAN NAME web application was created using HTML ,stylesheet(css) and javascript
