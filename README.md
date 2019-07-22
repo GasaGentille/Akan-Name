@@ -30,13 +30,13 @@ Most people do know when their birthdays are, but some might not know what day o
 * **The output will be** 
 * a day of week on which you were born **And** 
 * the Akan Name much with your and gender
-* input example: Birthdate: 10
-                 Month:10
-                 year :1994
-                 gender: female
-* output:
-your day is:
-Your AKAN-Name is:
+* **input example:** Birthdate: 10
+* **Month:10**
+* **year :1994**
+* **gender: female**
+* **output:**
+* **your day is:**1
+* **Your AKAN-Name is:** kwandwo
 ## Technologies Used
 * AKAN NAME web application was created using HTML ,stylesheet(css) and javascript
 ## Support and contact details
