@@ -35,7 +35,7 @@ Most people do know when their birthdays are, but some might not know what day o
 * **year :1994**
 * **gender: female**
 * **output:**
-* **your day is:**1
+* **your day is:** 1
 * **Your AKAN-Name is:** kwandwo
 ## Technologies Used
 * AKAN NAME web application was created using HTML ,stylesheet(css) and javascript
