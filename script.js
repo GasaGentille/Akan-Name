@@ -49,3 +49,4 @@ document.getElementById("akan-name").innerHTML= femaleNames[parseInt(weekDay)];
 
 
 
+
