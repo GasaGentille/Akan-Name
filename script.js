@@ -10,8 +10,8 @@ function day() {
   console.log( weekDay);
   document.getElementById("result").innerHTML = Math.round( weekDay);
 
-  var femaleNames= ["kwasi", "kwadwo", "kwabena", "kwaku", "yaw", "kofi"," kwame"];
-  var maleNames=["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
+  var maleNames= ["kwasi", "kwadwo", "kwabena", "kwaku", "yaw", "kofi"," kwame"];
+  var femaleNames =["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
   var choice = document.getElementById("select").value;
 
 if ((choice === "male" && (DD>0 && DD<=31)&&(MM>0 && MM<=12)&& YY>=1)){
