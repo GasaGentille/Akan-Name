@@ -19,8 +19,8 @@ function day() {
 
   document.getElementById("result").innerHTML = parseInt( weekDay);
 
-  var femaleNames= ["kwasi", "kwadwo", "kwabena", "kwaku", "yaw", "kofi"," kwame"];
-  var maleNames=["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
+  var maleNames= ["kwasi", "kwadwo", "kwabena", "kwaku", "yaw", "kofi"," kwame"];
+  var femaleNames=["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
 
   /*to check the gender you'he selected from webpage */
 
